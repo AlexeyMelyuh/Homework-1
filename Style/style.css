@@ -1,0 +1,21 @@
+.Heading{
+    text-align:center;
+}
+.colortext{
+    color:red;
+}
+.first{
+    color:orangered;
+}
+.ordinary{
+    font-size:22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+}
+.two{
+    color:purple;
+}
+
+.three{
+    color:springgreen;
+}
